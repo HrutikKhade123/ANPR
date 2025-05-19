@@ -1,6 +1,6 @@
 # ANPR
 
-AUTOMATED VEHICLE NUMBER PLATE DETECTIONAND & RECOGNITION :
+AUTOMATED VEHICLE NUMBER PLATE DETECTION & RECOGNITION :
 
  In this project, a Digital Image Processing-based prototype is de
  veloped. Actions such as Image Acquisition, enhancement that is pre
